@@ -73,6 +73,18 @@
             </div>
         </div>
     </div>
+    <div class="row mt-4">
+        <div class="col-lg-12 mb-4 text-center">
+            <h4 class="text-primary"><a target="_blank" href="https://github.com/lathindu1/tutorials">GitHub
+                    Repositary</a></h4>
+            <h4 class="text-primary"> <a target="_blank"
+                    href="https://dev.to/lathindu1/metamask-integration-with-laravel-4mng">Article
+                    In
+                    Dev.to</a></h4>
+            <h4 class="text-dark">Thank You VeryMuch</h4>
+            <a class="text-primary" href="https://github.com/lathindu1">-Lathindu Pramuditha</a>
+        </div>
+    </div>
     @endsection
     @push('js')
     <script>
