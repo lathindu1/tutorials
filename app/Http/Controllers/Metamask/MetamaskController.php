@@ -5,6 +5,7 @@ namespace App\Http\Controllers\Metamask;
 use App\Http\Controllers\Controller;
 use App\Models\Transaction;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Http;
 
 class MetamaskController extends Controller
 {
